@@ -146,3 +146,7 @@ p {
   object-fit: cover;
   border-radius: 50%;
 }
+
+#page-content {
+  min-height: calc(100vh - 49px);
+}
